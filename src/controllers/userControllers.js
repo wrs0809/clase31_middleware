@@ -1,5 +1,6 @@
 module.exports = {
-    admin: (req,res,next) =>{
-        res.render("admin")
+    admin: (req, res) => {
+        const usuarioIngresado = req.query.user;
+        res.send(`Hola Admin: ${usuarioIngresado}`);
     }
 }

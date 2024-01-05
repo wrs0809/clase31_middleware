@@ -5,3 +5,6 @@ El usuario ingresó a la ruta: /users
 El usuario ingresó a la ruta: /admin 
 El usuario ingresó a la ruta: /5 
 El usuario ingresó a la ruta: /8 
+El usuario ingresó a la ruta: /favicon.ico 
+El usuario ingresó a la ruta: /users/admin 
+El usuario ingresó a la ruta: /users/admin:user=Ada 
