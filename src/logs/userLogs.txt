@@ -1,0 +1,7 @@
+El usuario ingresó a la ruta: /5 
+El usuario ingresó a la ruta: /4 
+El usuario ingresó a la ruta: /1 
+El usuario ingresó a la ruta: /users 
+El usuario ingresó a la ruta: /admin 
+El usuario ingresó a la ruta: /5 
+El usuario ingresó a la ruta: /8 
